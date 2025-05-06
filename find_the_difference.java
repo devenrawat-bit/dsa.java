@@ -1,3 +1,4 @@
+//this is the leetcode problem number (389)
 import java.util.Arrays;
 //array package include the sort methods
 import java.util.Scanner;

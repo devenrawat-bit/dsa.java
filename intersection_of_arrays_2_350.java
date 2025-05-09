@@ -1,3 +1,4 @@
+//350 here is the number of leetcode problem 
 import java.util.Scanner;
 import java.util.Arrays;
 

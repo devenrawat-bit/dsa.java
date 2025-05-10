@@ -1,3 +1,4 @@
+//1920 is the number of leetcode problem which i solved here
 import java.util.Scanner;
 //note the elements enter in the array must be smaller than size of the array 
 public class build_array_from_permutation_1920 {

@@ -1,3 +1,4 @@
+//this is the leetcode 9th number problem solution 
 import java.util.Scanner;
 
 public class check_palindrome_number {

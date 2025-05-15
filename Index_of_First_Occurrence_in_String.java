@@ -1,3 +1,4 @@
+//the below solution is of leetcodes 28 th question 
 import java.util.Scanner;
 
 public class Index_of_First_Occurrence_in_String {

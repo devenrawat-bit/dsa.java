@@ -1,3 +1,5 @@
+//this is the solution of leetcodes question number 14
+
 import java.util.Scanner;
 
 public class longest_common_prefix {

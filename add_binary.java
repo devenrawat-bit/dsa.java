@@ -1,3 +1,4 @@
+//this below code is the solution of leetcodes question number 67
 import java.util.Scanner;
 
 public class add_binary {

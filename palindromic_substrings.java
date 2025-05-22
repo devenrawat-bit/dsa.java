@@ -1,3 +1,4 @@
+//this below is the solution of leetcodes question number 647
 import java.util.*;
 
 public class palindromic_substrings {

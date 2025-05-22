@@ -1,4 +1,5 @@
 //this below is the solution of leetcodes question number 647
+//note this code is not an optimized approach its a brute force and the optimized way is by dp and expand around centre
 import java.util.*;
 
 public class palindromic_substrings {

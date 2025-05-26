@@ -1,4 +1,4 @@
-
+//this below code is the solution of leetcodes question number 237
 public class delete_node_in_ll {
     public static class node {
         static void deletenode(node n) {

@@ -1,3 +1,4 @@
+//the below code is the solution of the leetcodes question number 142
 class ListNode {
     int val;
     ListNode next;

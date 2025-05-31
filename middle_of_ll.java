@@ -1,7 +1,6 @@
 //this below code is the solution of leetcodes question number 876
 public class middle_of_ll {
-
-    // Definition for singly-linked list.
+    
     public static class ListNode {
         int val;
         ListNode next;
@@ -11,7 +10,6 @@ public class middle_of_ll {
         ListNode(int val, ListNode next) { this.val = val; this.next = next; }
     }
 
-    // Solution class
     public static class Solution {
         public ListNode middleNode(ListNode head) {
             ListNode slow = head;
@@ -24,7 +22,6 @@ public class middle_of_ll {
         }
     }
 
-    // Main method
     public static void main(String[] args) {
         // Create linked list: 1 -> 2 -> 3 -> 4 -> 5
         ListNode head = new ListNode(1);

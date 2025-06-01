@@ -1,3 +1,4 @@
+//this below code is the solution of leetcodes question number 2095
 public class DeleteMiddleNode {
 
     // Definition for singly-linked list

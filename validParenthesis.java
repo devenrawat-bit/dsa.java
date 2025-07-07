@@ -1,3 +1,4 @@
+//the below code is the solution of the leetcodes question number 20
 import java.util.Scanner;
 import java.util.Stack;
 
